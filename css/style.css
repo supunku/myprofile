@@ -1,0 +1,13 @@
+h2{
+    color:royalblue;
+    background-color: seagreen;
+  }
+  body{
+    background-color: greenyellow;
+  }
+
+  hr{
+    border-style: inset;
+    border-width: 5px;
+    border-color: honeydew;
+  }
